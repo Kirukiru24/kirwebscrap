@@ -23,7 +23,7 @@ Quick Start
 
 Clone repository
 
-git clone https://github.com/yourusername/your-repo-name.git
+git clone [https://github.com/yourusername/your-repo-name.git](https://github.com/Kirukiru24/kirwebscrap.git)
 cd your-repo-name
 
 
